@@ -1,0 +1,13 @@
+//printar algo exibir no terminal,escreva é igual ao print  de outras linguagens
+Escreva(“”)
+//remonta a Strings sequência de caracteres
+Cadeia 
+//para variáveis com um valor numérico
+Inteiro
+//representa o float números quebrados como 12.9
+Real
+//aceita dois valores verdadeiro/falso
+logico
+// recebe um valor, ou seja, é o input onde adquire o valor digitado pelo usuário
+Leia(variavel)
+ 

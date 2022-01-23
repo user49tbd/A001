@@ -1,0 +1,10 @@
+// Laços de repetição servem para executar o código  mias de uma vez como a estrutura para e faca enquanto
+para(inteiro a=0;a<=4;a++){
+		    escreva(a)
+		}
+		inteiro g
+		g=0
+faca{
+	escreva("\n"+g)
+	g++
+}enquanto(g<=4)
